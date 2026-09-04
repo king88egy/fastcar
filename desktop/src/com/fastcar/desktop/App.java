@@ -94,8 +94,56 @@ public App() {
         pack();
         setSize(440, 700);
         setLocationRelativeTo(null);
-        cards.show(root, Api.username.isEmpty() ? "login" : "main");
+cards.show(root, Api.username.isEmpty() ? "login" : "main");
         applyLang();
+        keepServerWarm();
+    }
+
+    private void keepServerWarm() {
+        Thread t = new Thread(() -> {
+            int fail = 0;
+            while (true) {
+                try {
+                    java.net.HttpURLConnection con;
+                    try {
+                        java.net.URL u = new java.net.URL(Api.server() + "/health");
+                        con = (java.net.HttpURLConnection) u.openConnection();
+                        con.setConnectTimeout(15000);
+                        con.setReadTimeout(20000);
+                    } catch (Exception e) {
+                        fail++; if (fail > 2) break;
+                        sleepSafe(60000);
+                        continue;
+                    }
+                    try {
+                        int code = con.getResponseCode();
+                        if (code != 200) {
+                            fail++;
+                            if (fail > 3) break;
+                        } else {
+                            fail = 0;
+                        }
+                    } catch (Exception e) {
+                        fail++;
+                        if (fail > 3) break;
+                    } finally {
+                        con.disconnect();
+                    }
+                } catch (Exception e) {
+                    if (++fail > 3) break;
+                }
+                sleepSafe(240000);
+            }
+        });
+        t.setDaemon(true);
+        t.start();
+    }
+
+    private static void sleepSafe(long ms) {
+        try {
+            Thread.sleep(ms);
+        } catch (InterruptedException ignored) {
+        }
     }
 
     private void buildLogin() {

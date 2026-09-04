@@ -362,8 +362,8 @@ public final class Api {
     private static String request(Context c, String path, String body, boolean doPost) throws Exception {
         URL url = new URL(getServer(c) + path);
         HttpURLConnection con = (HttpURLConnection) url.openConnection();
-        con.setConnectTimeout(8000);
-        con.setReadTimeout(12000);
+        con.setConnectTimeout(20000);
+        con.setReadTimeout(120000);
         con.setRequestProperty("Accept-Charset", "UTF-8");
         if (!token.isEmpty()) {
             con.setRequestProperty("Authorization", "Bearer " + token);

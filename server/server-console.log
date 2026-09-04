@@ -1,0 +1,10 @@
+==========================================================
+   FAST CAR GAME SERVER
+   Port             : 8080
+   Local test       : http://127.0.0.1:8080
+   For the phone    : http://192.168.1.250:8080
+   Put this address in app settings.
+   Endpoints        : /register  /login  /score  /scores
+   Data stored in   : C:\Users\ALLAH\Documents\Default Project\Fast car\server\data
+   Press Ctrl+C to stop the server.
+==========================================================

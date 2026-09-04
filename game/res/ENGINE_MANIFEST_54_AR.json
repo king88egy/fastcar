@@ -1,0 +1,488 @@
+[
+  {
+    "key": "engine_variant_01",
+    "file": "engine_variant_01.ogg",
+    "source": "car_engine_high_cc0.wav",
+    "rate": 0.78,
+    "volume": 0.86,
+    "tone": "bass=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_02",
+    "file": "engine_variant_02.ogg",
+    "source": "car_engine_low_cc0.wav",
+    "rate": 0.86,
+    "volume": 0.86,
+    "tone": "bass=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_03",
+    "file": "engine_variant_03.ogg",
+    "source": "engine_classic.ogg",
+    "rate": 0.94,
+    "volume": 0.86,
+    "tone": "bass=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_04",
+    "file": "engine_variant_04.ogg",
+    "source": "engine_compact.ogg",
+    "rate": 1.02,
+    "volume": 0.86,
+    "tone": "treble=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_05",
+    "file": "engine_variant_05.ogg",
+    "source": "engine_hyper.ogg",
+    "rate": 1.1,
+    "volume": 0.86,
+    "tone": "treble=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_06",
+    "file": "engine_variant_06.ogg",
+    "source": "engine_muscle.ogg",
+    "rate": 1.2,
+    "volume": 0.86,
+    "tone": "treble=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_07",
+    "file": "engine_variant_07.ogg",
+    "source": "engine_sedan.ogg",
+    "rate": 0.78,
+    "volume": 0.92,
+    "tone": "bass=g=-1:frequency=180",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_08",
+    "file": "engine_variant_08.ogg",
+    "source": "engine_sport.ogg",
+    "rate": 0.86,
+    "volume": 0.92,
+    "tone": "bass=g=-1:frequency=180",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_09",
+    "file": "engine_variant_09.ogg",
+    "source": "engine_super.ogg",
+    "rate": 0.94,
+    "volume": 0.92,
+    "tone": "bass=g=-1:frequency=180",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_10",
+    "file": "engine_variant_10.ogg",
+    "source": "engine_touring.ogg",
+    "rate": 1.02,
+    "volume": 0.92,
+    "tone": "treble=g=-1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_11",
+    "file": "engine_variant_11.ogg",
+    "source": "car_engine_high_cc0.wav",
+    "rate": 1.1,
+    "volume": 0.92,
+    "tone": "treble=g=-1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_12",
+    "file": "engine_variant_12.ogg",
+    "source": "car_engine_low_cc0.wav",
+    "rate": 1.2,
+    "volume": 0.92,
+    "tone": "treble=g=-1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_13",
+    "file": "engine_variant_13.ogg",
+    "source": "engine_classic.ogg",
+    "rate": 0.78,
+    "volume": 1.0,
+    "tone": "bass=g=1:width_type=h:width=120",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_14",
+    "file": "engine_variant_14.ogg",
+    "source": "engine_compact.ogg",
+    "rate": 0.86,
+    "volume": 1.0,
+    "tone": "bass=g=1:width_type=h:width=120",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_15",
+    "file": "engine_variant_15.ogg",
+    "source": "engine_hyper.ogg",
+    "rate": 0.94,
+    "volume": 1.0,
+    "tone": "bass=g=1:width_type=h:width=120",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_16",
+    "file": "engine_variant_16.ogg",
+    "source": "engine_muscle.ogg",
+    "rate": 1.02,
+    "volume": 1.0,
+    "tone": "treble=g=1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_17",
+    "file": "engine_variant_17.ogg",
+    "source": "engine_sedan.ogg",
+    "rate": 1.1,
+    "volume": 1.0,
+    "tone": "treble=g=1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_18",
+    "file": "engine_variant_18.ogg",
+    "source": "engine_sport.ogg",
+    "rate": 1.2,
+    "volume": 1.0,
+    "tone": "treble=g=1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_19",
+    "file": "engine_variant_19.ogg",
+    "source": "engine_super.ogg",
+    "rate": 0.78,
+    "volume": 0.86,
+    "tone": "bass=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_20",
+    "file": "engine_variant_20.ogg",
+    "source": "engine_touring.ogg",
+    "rate": 0.86,
+    "volume": 0.86,
+    "tone": "bass=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_21",
+    "file": "engine_variant_21.ogg",
+    "source": "car_engine_high_cc0.wav",
+    "rate": 0.94,
+    "volume": 0.86,
+    "tone": "bass=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_22",
+    "file": "engine_variant_22.ogg",
+    "source": "car_engine_low_cc0.wav",
+    "rate": 1.02,
+    "volume": 0.86,
+    "tone": "treble=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_23",
+    "file": "engine_variant_23.ogg",
+    "source": "engine_classic.ogg",
+    "rate": 1.1,
+    "volume": 0.86,
+    "tone": "treble=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_24",
+    "file": "engine_variant_24.ogg",
+    "source": "engine_compact.ogg",
+    "rate": 1.2,
+    "volume": 0.86,
+    "tone": "treble=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_25",
+    "file": "engine_variant_25.ogg",
+    "source": "engine_hyper.ogg",
+    "rate": 0.78,
+    "volume": 0.92,
+    "tone": "bass=g=-1:frequency=180",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_26",
+    "file": "engine_variant_26.ogg",
+    "source": "engine_muscle.ogg",
+    "rate": 0.86,
+    "volume": 0.92,
+    "tone": "bass=g=-1:frequency=180",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_27",
+    "file": "engine_variant_27.ogg",
+    "source": "engine_sedan.ogg",
+    "rate": 0.94,
+    "volume": 0.92,
+    "tone": "bass=g=-1:frequency=180",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_28",
+    "file": "engine_variant_28.ogg",
+    "source": "engine_sport.ogg",
+    "rate": 1.02,
+    "volume": 0.92,
+    "tone": "treble=g=-1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_29",
+    "file": "engine_variant_29.ogg",
+    "source": "engine_super.ogg",
+    "rate": 1.1,
+    "volume": 0.92,
+    "tone": "treble=g=-1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_30",
+    "file": "engine_variant_30.ogg",
+    "source": "engine_touring.ogg",
+    "rate": 1.2,
+    "volume": 0.92,
+    "tone": "treble=g=-1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_31",
+    "file": "engine_variant_31.ogg",
+    "source": "car_engine_high_cc0.wav",
+    "rate": 0.78,
+    "volume": 1.0,
+    "tone": "bass=g=1:width_type=h:width=120",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_32",
+    "file": "engine_variant_32.ogg",
+    "source": "car_engine_low_cc0.wav",
+    "rate": 0.86,
+    "volume": 1.0,
+    "tone": "bass=g=1:width_type=h:width=120",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_33",
+    "file": "engine_variant_33.ogg",
+    "source": "engine_classic.ogg",
+    "rate": 0.94,
+    "volume": 1.0,
+    "tone": "bass=g=1:width_type=h:width=120",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_34",
+    "file": "engine_variant_34.ogg",
+    "source": "engine_compact.ogg",
+    "rate": 1.02,
+    "volume": 1.0,
+    "tone": "treble=g=1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_35",
+    "file": "engine_variant_35.ogg",
+    "source": "engine_hyper.ogg",
+    "rate": 1.1,
+    "volume": 1.0,
+    "tone": "treble=g=1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_36",
+    "file": "engine_variant_36.ogg",
+    "source": "engine_muscle.ogg",
+    "rate": 1.2,
+    "volume": 1.0,
+    "tone": "treble=g=1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_37",
+    "file": "engine_variant_37.ogg",
+    "source": "engine_sedan.ogg",
+    "rate": 0.78,
+    "volume": 0.86,
+    "tone": "bass=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_38",
+    "file": "engine_variant_38.ogg",
+    "source": "engine_sport.ogg",
+    "rate": 0.86,
+    "volume": 0.86,
+    "tone": "bass=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_39",
+    "file": "engine_variant_39.ogg",
+    "source": "engine_super.ogg",
+    "rate": 0.94,
+    "volume": 0.86,
+    "tone": "bass=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_40",
+    "file": "engine_variant_40.ogg",
+    "source": "engine_touring.ogg",
+    "rate": 1.02,
+    "volume": 0.86,
+    "tone": "treble=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_41",
+    "file": "engine_variant_41.ogg",
+    "source": "car_engine_high_cc0.wav",
+    "rate": 1.1,
+    "volume": 0.86,
+    "tone": "treble=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_42",
+    "file": "engine_variant_42.ogg",
+    "source": "car_engine_low_cc0.wav",
+    "rate": 1.2,
+    "volume": 0.86,
+    "tone": "treble=g=2",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_43",
+    "file": "engine_variant_43.ogg",
+    "source": "engine_classic.ogg",
+    "rate": 0.78,
+    "volume": 0.92,
+    "tone": "bass=g=-1:frequency=180",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_44",
+    "file": "engine_variant_44.ogg",
+    "source": "engine_compact.ogg",
+    "rate": 0.86,
+    "volume": 0.92,
+    "tone": "bass=g=-1:frequency=180",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_45",
+    "file": "engine_variant_45.ogg",
+    "source": "engine_hyper.ogg",
+    "rate": 0.94,
+    "volume": 0.92,
+    "tone": "bass=g=-1:frequency=180",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_46",
+    "file": "engine_variant_46.ogg",
+    "source": "engine_muscle.ogg",
+    "rate": 1.02,
+    "volume": 0.92,
+    "tone": "treble=g=-1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_47",
+    "file": "engine_variant_47.ogg",
+    "source": "engine_sedan.ogg",
+    "rate": 1.1,
+    "volume": 0.92,
+    "tone": "treble=g=-1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_48",
+    "file": "engine_variant_48.ogg",
+    "source": "engine_sport.ogg",
+    "rate": 1.2,
+    "volume": 0.92,
+    "tone": "treble=g=-1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_49",
+    "file": "engine_variant_49.ogg",
+    "source": "engine_super.ogg",
+    "rate": 0.78,
+    "volume": 1.0,
+    "tone": "bass=g=1:width_type=h:width=120",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_50",
+    "file": "engine_variant_50.ogg",
+    "source": "engine_touring.ogg",
+    "rate": 0.86,
+    "volume": 1.0,
+    "tone": "bass=g=1:width_type=h:width=120",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_51",
+    "file": "engine_variant_51.ogg",
+    "source": "car_engine_high_cc0.wav",
+    "rate": 0.94,
+    "volume": 1.0,
+    "tone": "bass=g=1:width_type=h:width=120",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_52",
+    "file": "engine_variant_52.ogg",
+    "source": "car_engine_low_cc0.wav",
+    "rate": 1.02,
+    "volume": 1.0,
+    "tone": "treble=g=1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_53",
+    "file": "engine_variant_53.ogg",
+    "source": "engine_classic.ogg",
+    "rate": 1.1,
+    "volume": 1.0,
+    "tone": "treble=g=1",
+    "license": "CC0-derived from existing project engine sources"
+  },
+  {
+    "key": "engine_variant_54",
+    "file": "engine_variant_54.ogg",
+    "source": "engine_compact.ogg",
+    "rate": 1.2,
+    "volume": 1.0,
+    "tone": "treble=g=1",
+    "license": "CC0-derived from existing project engine sources"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "key": "a11y_focus",
+    "file": "a11y_focus.ogg",
+    "source_file": "select_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "a11y_focus_alt",
+    "file": "a11y_focus_alt.ogg",
+    "source_file": "select_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "a11y_swipe_next",
+    "file": "a11y_swipe_next.ogg",
+    "source_file": "scroll_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "a11y_swipe_prev",
+    "file": "a11y_swipe_prev.ogg",
+    "source_file": "scroll_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "a11y_double_tap",
+    "file": "a11y_double_tap.ogg",
+    "source_file": "click_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "a11y_activate",
+    "file": "a11y_activate.ogg",
+    "source_file": "confirmation_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "a11y_first",
+    "file": "a11y_first.ogg",
+    "source_file": "back_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "a11y_last",
+    "file": "a11y_last.ogg",
+    "source_file": "open_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "a11y_error",
+    "file": "a11y_error.ogg",
+    "source_file": "error_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "a11y_question",
+    "file": "a11y_question.ogg",
+    "source_file": "question_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "menu_open",
+    "file": "menu_open.ogg",
+    "source_file": "open_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "menu_close",
+    "file": "menu_close.ogg",
+    "source_file": "close_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "menu_select",
+    "file": "menu_select.ogg",
+    "source_file": "select_003.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "menu_back",
+    "file": "menu_back.ogg",
+    "source_file": "back_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "menu_tick",
+    "file": "menu_tick.ogg",
+    "source_file": "tick_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "menu_toggle",
+    "file": "menu_toggle.ogg",
+    "source_file": "toggle_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "store_open",
+    "file": "store_open.ogg",
+    "source_file": "open_003.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "purchase_confirm",
+    "file": "purchase_confirm.ogg",
+    "source_file": "confirmation_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "purchase_error",
+    "file": "purchase_error.ogg",
+    "source_file": "error_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "coin_reward",
+    "file": "coin_reward.ogg",
+    "source_file": "bong_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "reward_reveal",
+    "file": "reward_reveal.ogg",
+    "source_file": "pluck_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "repair_start",
+    "file": "repair_start.ogg",
+    "source_file": "drop_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "repair_done",
+    "file": "repair_done.ogg",
+    "source_file": "confirmation_003.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "fuel_fill",
+    "file": "fuel_fill.ogg",
+    "source_file": "drop_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "fuel_low",
+    "file": "fuel_low.ogg",
+    "source_file": "error_003.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "garage_open",
+    "file": "garage_open.ogg",
+    "source_file": "open_004.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "garage_close",
+    "file": "garage_close.ogg",
+    "source_file": "close_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "leaderboard_open",
+    "file": "leaderboard_open.ogg",
+    "source_file": "maximize_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "leaderboard_rank",
+    "file": "leaderboard_rank.ogg",
+    "source_file": "select_004.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "leaderboard_refresh",
+    "file": "leaderboard_refresh.ogg",
+    "source_file": "scroll_003.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "friend_request",
+    "file": "friend_request.ogg",
+    "source_file": "question_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "friend_accept",
+    "file": "friend_accept.ogg",
+    "source_file": "confirmation_004.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "friend_message",
+    "file": "friend_message.ogg",
+    "source_file": "click_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "invite_sent",
+    "file": "invite_sent.ogg",
+    "source_file": "select_005.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "invite_received",
+    "file": "invite_received.ogg",
+    "source_file": "maximize_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "room_join",
+    "file": "room_join.ogg",
+    "source_file": "switch_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "room_leave",
+    "file": "room_leave.ogg",
+    "source_file": "back_003.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "room_ready",
+    "file": "room_ready.ogg",
+    "source_file": "tick_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "race_grid",
+    "file": "race_grid.ogg",
+    "source_file": "maximize_003.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "race_countdown_tick",
+    "file": "race_countdown_tick.ogg",
+    "source_file": "tick_004.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "race_overtake",
+    "file": "race_overtake.ogg",
+    "source_file": "switch_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "race_caution",
+    "file": "race_caution.ogg",
+    "source_file": "error_004.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "race_finish",
+    "file": "race_finish.ogg",
+    "source_file": "pluck_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "result_win",
+    "file": "result_win.ogg",
+    "source_file": "glass_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "result_loss",
+    "file": "result_loss.ogg",
+    "source_file": "error_005.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "car_select",
+    "file": "car_select.ogg",
+    "source_file": "select_006.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "settings_change",
+    "file": "settings_change.ogg",
+    "source_file": "toggle_002.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  },
+  {
+    "key": "network_error",
+    "file": "network_error.ogg",
+    "source_file": "glitch_001.ogg",
+    "license": "CC0",
+    "source_url": "https://opengameart.org/content/interface-sounds",
+    "credit": "Kenney / kenney.nl"
+  }
+]

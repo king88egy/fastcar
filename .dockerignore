@@ -1,0 +1,14 @@
+*.class
+*.jar
+*.jar
+.git
+.gitignore
+desktop/dist/FastCar/FastCar.jar
+desktop/out
+server/out
+android
+android-gradle
+tools
+node_modules
+*.apk
+data/*.txt

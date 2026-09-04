@@ -15,7 +15,7 @@ import java.net.URLEncoder;
 
 public final class Api {
 
-    public static final String DEFAULT_SERVER_URL = "http://192.168.1.250:8080";
+    public static final String DEFAULT_SERVER_URL = "https://fastcar-7ofz.onrender.com";
 
     public static String token = "";
     public static String username = "";

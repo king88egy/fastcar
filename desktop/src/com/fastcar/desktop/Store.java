@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public final class Store {
 
-    public static final String DEFAULT_SERVER = "http://127.0.0.1:8080";
+    public static final String DEFAULT_SERVER = "https://fastcar-7ofz.onrender.com";
 
     private static File file() {
         return new File(System.getProperty("user.home"), ".fastcar.properties");

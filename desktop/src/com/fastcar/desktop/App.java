@@ -76,6 +76,7 @@ public class App extends JFrame {
 
 public App() {
         super("Fast Car");
+        UiFont.install();
         Sfx.init(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         java.awt.event.MouseAdapter clickSfx = new java.awt.event.MouseAdapter() {
@@ -90,11 +91,12 @@ public App() {
         root.add(buildRegister(), "register");
         root.add(buildForgotPassword(), "forgot");
         root.add(buildMain(), "main");
+        UiFont.apply(root);
         setContentPane(root);
         pack();
         setSize(440, 700);
         setLocationRelativeTo(null);
-cards.show(root, Api.username.isEmpty() ? "login" : "main");
+        cards.show(root, Api.username.isEmpty() ? "login" : "main");
         applyLang();
         keepServerWarm();
     }
